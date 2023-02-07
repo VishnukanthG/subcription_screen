@@ -1,0 +1,38 @@
+body {
+    background-color: #8B8000;
+}
+
+.plc {
+    background-color: white;
+    height: 550px;
+    width: 260px;
+    text-align: center;
+}
+
+.plc h1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    font-size: 20px;
+    width: 150px;
+}
+
+.price {
+    background-color: rgba(173, 216, 230, 0.5);
+    width: 200px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.desc {
+    margin-top: 15px;
+    width: 200px; 
+    font-size: 14px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-weight: 500;
+}
