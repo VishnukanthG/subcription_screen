@@ -1,5 +1,7 @@
 body {
     background-color: #8B8000;
+    display: flex;
+    justify-content: center;
 }
 
 .plc {
